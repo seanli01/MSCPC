@@ -1,4 +1,4 @@
-import type { Metadata } from "@/node_modules/next/types";
+
 
 import "./globals.css";
 
