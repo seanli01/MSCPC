@@ -3,7 +3,6 @@ import React from 'react';
 import Image from '@/node_modules/next/image';
 import Link from '@/node_modules/next/link';
 import { navItems } from '@/components/Header/MenuItems';
-import { Button } from '@/components/ui/button';
 import { ChevronDown } from 'lucide-react';
 
 const Header = () => {
